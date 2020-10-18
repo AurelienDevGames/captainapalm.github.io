@@ -1,0 +1,136 @@
+{
+    "ghosts": [
+        {
+            "name": "Spirit",
+            "clues" : [
+                "Spirit Box",
+                "Fingerprints",
+                "Ghost Writing"
+            ],
+            "attitude": "",
+            "strength": "The Spirit has no unique powers",
+            "weakness": "Using Smudge Sticks on a Spirit will stop it attacking for twice as long as other types of Ghost."
+        },
+        {
+            "name": "Wraith",
+            "clues": [
+                "Fingerprints",
+                "Freezing Temperatures",
+                "Spirit Box"
+            ],
+            "attitude": "violent",
+            "strength": "The Wraith can travel through walls and doors without opening them, and will not leave footprints on the ground.",
+            "weakness": "If a Wraith comes into contact with a pile of salt, it will immediately cease attacking."
+        },
+        {
+            "name": "Phantom",
+            "clues": [
+                "EMF Level 5",
+                "Ghost Orbs",
+                "Freezing Temperatures"
+            ],
+            "attitude": "",
+            "strength": "Looking at a Phantom will considerably drop your Sanity.",
+            "weakness": "Taking a photo of the Phantom will make it temporarily disappear."
+        },
+        {
+            "name": "Poltergeist",
+            "clues": [
+                "Spirit Box",
+                "Fingerprints",
+                "Ghost Orbs"
+            ],
+            "attitude": "",
+            "strength": "A Poltergeist can throw huge amounts of objects at once.",
+            "weakness": "A Poltergeist is almost ineffective in an empty room."
+        },
+        {
+            "name": "Banshee",
+            "clues": [
+                "EMF Level 5",
+                "Fingerprints",
+                "Freezing Temperatures"
+            ],
+            "attitude": "violent",
+            "strength": "A Banshee will focus on one player at a time until it kills them.",
+            "weakness": "Banshees fear the Crucifix."
+        },
+        {
+            "name": "Jinn",
+            "clues": [
+                "Spirit Box",
+                "Ghost Orbs",
+                "Spirit Box"
+            ],
+            "attitude": "territorial",
+            "strength": "A Jinn will travel at a faster speed if its victim is far away.",
+            "weakness": "Turning off the location's power source will prevent the Jinn from using its ability."
+        },
+        {
+            "name": "Mare",
+            "clues": [
+                "Ghost Orbs",
+                "Spirit Box",
+                "Freezing Temperatures"
+            ],
+            "attitude": "",
+            "strength": "Increased chance to attack in the dark.",
+            "weakness": "Turning the lights on will lower its chance to attack."
+        },
+        {
+            "name": "Revenant",
+            "clues": [
+                "EMF Level 5",
+                "Fingerprints",
+                "Ghost Writing"
+            ],
+            "attitude": "violent",
+            "strength": "A Revenant will travel at a significantly faster speed when hunting a victim.",
+            "weakness": "Hiding from the Revenant will cause it to move very slowly."
+        },
+        {
+            "name": "Shade",
+            "clues": [
+                "Ghost Writing",
+                "EMF Level 5",
+                "Ghost Orbs"
+            ],
+            "attitude": "shy",
+            "strength": "A Shade will rarely perform actions in the presence of two or more people",
+            "weakness": "A Shade will rarely start a Hunt when players are grouped together."
+        },
+        {
+            "name": "Demon",
+            "clues": [
+                "Spirit Box",
+                "Ghost Writing",
+                "Freezing Temperatures"
+            ],
+            "attitude": "violent",
+            "strength": "Demons will attack more often than any other Ghost.",
+            "weakness": "Asking a Demon successful questions on the Ouija Board won't lower the users' sanity."
+        },
+        {
+            "name": "Yurei",
+            "clues": [
+                "Ghost Orbs",
+                "Ghost Writing",
+                "Freezing Temperatures"
+            ],
+            "attitude": "violent",
+            "strength": "Yurei have been known to have a stronger effect on people's sanity.",
+            "weakness": "Using Smudge Sticks on the Yurei's room will cause it to not wander around the location for a long time."
+        },
+        {
+            "name": "Oni",
+            "clues": [
+                "EMF Level 5",
+                "Spirit Box",
+                "Ghost Writing"
+            ],
+            "attitude": "violent",
+            "strength": "Oni are more active when people are nearby and have been seen moving objects at great speed.",
+            "weakness": "Being more active will make the Oni easier to find and identify."
+        }
+    ]
+}
