@@ -1,6 +1,8 @@
-const ghostSymbol = "👻";
-const reactedSymbol = "✅";
-const noreactionSymbol = "❌";
+DarkReader.enable({
+    brightness: 100,
+    contrast: 90,
+    sepia: 10
+});
 
 const scoobyApp = {
   data() {
