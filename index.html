@@ -29,7 +29,15 @@
             </div>
             <hr>
             <div>
-                <button v-for="ghost in ghostsByClues" class="pure-button" disabled="">{{ ghost.name }}</button>
+                <button v-for="ghost in ghostsByClues" @click="showGhostDetails(ghost.name)" class="pure-button">{{ ghost.name }}</button>
+            </div>
+            <div v-if="ghostDetails">
+                <hr>
+                <p style="font-weight: bold;">{{ghostTarget.name}}</p>
+                <p>Strength</p>
+                <p>{{ghostTarget.strength}}</p>
+                <p>Weakness</p>
+                <p>{{ghostTarget.weakness}}</p>
             </div>
         </div>
         <div class="pure-u-1 pure-u-md-1-3"></div>
