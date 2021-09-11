@@ -2,7 +2,7 @@
     "ghosts": [
         {
             "name": "Spirit",
-            "clues" : [
+            "clues": [
                 "Spirit Box",
                 "EMF Level 5",
                 "Ghost Writing"
@@ -13,7 +13,7 @@
         },
         {
             "name": "Goryo",
-            "clues" : [
+            "clues": [
                 "EMF Level 5",
                 "Fingerprints",
                 "DOTS Projector"
@@ -24,7 +24,7 @@
         },
         {
             "name": "Hantu",
-            "clues" : [
+            "clues": [
                 "Ghost Orbs",
                 "Fingerprints",
                 "Freezing Temperatures"
@@ -35,7 +35,7 @@
         },
         {
             "name": "Yokai",
-            "clues" : [
+            "clues": [
                 "Ghost Orbs",
                 "Spirit Box",
                 "DOTS Projector"
@@ -58,9 +58,9 @@
         {
             "name": "Phantom",
             "clues": [
-                "EMF Level 5",
-                "Ghost Orbs",
-                "Freezing Temperatures"
+                "Fingerprints",
+                "Spirit Box",
+                "DOTS Projector"
             ],
             "attitude": "",
             "strength": "Looking at a Phantom will considerably drop your Sanity.",
