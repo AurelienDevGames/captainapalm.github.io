@@ -11,7 +11,7 @@ const scoobyApp = {
         evidences: [],
         unaffected: [],
       },
-      cluesNames: ["EMF Level 5", "Ghost Orb", "Spirit Box", "Freezing Temperatures", "Ghost Writing", "Fingerprints"],
+      cluesNames: ["EMF Level 5", "Ghost Orb", "Spirit Box", "Freezing Temperatures", "Ghost Writing", "Fingerprints", "DOTS Projector"],
       ghosts: [],
     };
   },
