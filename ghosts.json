@@ -4,7 +4,7 @@
             "name": "Spirit",
             "clues" : [
                 "Spirit Box",
-                "Fingerprints",
+                "EMF Level 5",
                 "Ghost Writing"
             ],
             "attitude": "",
@@ -12,10 +12,43 @@
             "weakness": "Using Smudge Sticks on a Spirit will stop it attacking for twice as long as other types of Ghost."
         },
         {
+            "name": "Goryo",
+            "clues" : [
+                "EMF Level 5",
+                "Fingerprints",
+                "DOTS Projector"
+            ],
+            "attitude": "",
+            "strength": "A Goryo will usually only show itself on camera if there are no people nearby.",
+            "weakness": "They are rarely seen far from their place of death."
+        },
+        {
+            "name": "Hantu",
+            "clues" : [
+                "Ghost Orbs",
+                "Fingerprints",
+                "Freezing Temperatures"
+            ],
+            "attitude": "",
+            "strength": "Moves faster in colder areas.",
+            "weakness": "Moves slower in warmer areas."
+        },
+        {
+            "name": "Yokai",
+            "clues" : [
+                "Ghost Orbs",
+                "Spirit Box",
+                "DOTS Projector"
+            ],
+            "attitude": "",
+            "strength": "Talking near a Yokai will anger it and cause it to attack more often.",
+            "weakness": "While hunting, it can only hear voices close to it."
+        },
+        {
             "name": "Wraith",
             "clues": [
-                "Fingerprints",
-                "Freezing Temperatures",
+                "EMF Level 5",
+                "DOTS Projector",
                 "Spirit Box"
             ],
             "attitude": "violent",
@@ -38,7 +71,7 @@
             "clues": [
                 "Spirit Box",
                 "Fingerprints",
-                "Ghost Orbs"
+                "Ghost Writing"
             ],
             "attitude": "",
             "strength": "A Poltergeist can throw huge amounts of objects at once.",
@@ -47,9 +80,9 @@
         {
             "name": "Banshee",
             "clues": [
-                "EMF Level 5",
+                "Ghost Orbs",
                 "Fingerprints",
-                "Freezing Temperatures"
+                "DOTS Projector"
             ],
             "attitude": "violent",
             "strength": "A Banshee will focus on one player at a time until it kills them.",
@@ -58,9 +91,9 @@
         {
             "name": "Jinn",
             "clues": [
-                "Spirit Box",
-                "Ghost Orbs",
-                "EMF Level 5"
+                "Fingerprints",
+                "EMF Level 5",
+                "Freezing Temperatures"
             ],
             "attitude": "territorial",
             "strength": "A Jinn will travel at a faster speed if its victim is far away.",
@@ -71,17 +104,28 @@
             "clues": [
                 "Ghost Orbs",
                 "Spirit Box",
-                "Freezing Temperatures"
+                "Ghost Writing"
             ],
             "attitude": "",
             "strength": "Increased chance to attack in the dark.",
             "weakness": "Turning the lights on will lower its chance to attack."
         },
         {
-            "name": "Revenant",
+            "name": "Myling",
             "clues": [
                 "EMF Level 5",
                 "Fingerprints",
+                "Ghost Writing"
+            ],
+            "attitude": "",
+            "strength": "A Myling is known to be quieter when hunting.",
+            "weakness": "Mylings more frequently make paranormal sounds."
+        },
+        {
+            "name": "Revenant",
+            "clues": [
+                "Freezing Temperatures",
+                "Ghost Orbs",
                 "Ghost Writing"
             ],
             "attitude": "violent",
@@ -93,7 +137,7 @@
             "clues": [
                 "Ghost Writing",
                 "EMF Level 5",
-                "Ghost Orbs"
+                "Freezing Temperatures"
             ],
             "attitude": "shy",
             "strength": "A Shade will rarely perform actions in the presence of two or more people",
@@ -102,7 +146,7 @@
         {
             "name": "Demon",
             "clues": [
-                "Spirit Box",
+                "Fingerprints",
                 "Ghost Writing",
                 "Freezing Temperatures"
             ],
@@ -114,7 +158,7 @@
             "name": "Yurei",
             "clues": [
                 "Ghost Orbs",
-                "Ghost Writing",
+                "DOTS Projector",
                 "Freezing Temperatures"
             ],
             "attitude": "violent",
@@ -125,8 +169,8 @@
             "name": "Oni",
             "clues": [
                 "EMF Level 5",
-                "Spirit Box",
-                "Ghost Writing"
+                "Freezing Temperatures",
+                "DOTS Projector"
             ],
             "attitude": "violent",
             "strength": "Oni are more active when people are nearby and have been seen moving objects at great speed.",
