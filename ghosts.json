@@ -175,6 +175,105 @@
             "attitude": "violent",
             "strength": "Oni are more active when people are nearby and have been seen moving objects at great speed.",
             "weakness": "Being more active will make the Oni easier to find and identify."
+        },
+        {
+            "name": "Deogen",
+            "clues": [
+                "Spirit Box",
+                "Ghost Writing",
+                "DOTS Projector"
+            ],
+            "attitude": "violent",
+            "strength": "Always knows where players are during a hunt. Moves at a high speed with no player nearby.",
+            "weakness": "Significantly slows down when near its target. Has a lower hunt sanity threshold."
+        },
+        {
+            "name": "Moroi",
+            "clues": [
+                "Spirit Box",
+                "Ghost Writing",
+                "Freezing Temperatures"
+            ],
+            "attitude": "violent",
+            "strength": "Hunting speeds depend directly on average team sanity.",
+            "weakness": "Will be disoriented for longer when smudged during a hunt."
+        },
+        {
+            "name": "Obake",
+            "clues": [
+                "EMF Level 5",
+                "Ghost Orbs",
+                "Fingerprints"
+            ],
+            "attitude": "violent",
+            "strength": "Fingerprints can disappear faster than usual. Occasionally fails to leave fingerprints.",
+            "weakness": "Can leave a unique fingerprint pattern."
+        },
+        {
+            "name": "Onryo",
+            "clues": [
+                "Freezing Temperatures",
+                "Ghost Orbs",
+                "Spirit Box"
+            ],
+            "attitude": "violent",
+            "strength": "Chance to hunt at any sanity after blowing out a flame. Blows out fiery objects (candles, campfire) more often with more dead people.",
+            "weakness": "Presence of flames prevents the ghost from hunting."
+        },
+        {
+            "name": "Raiju",
+            "clues": [
+                "DOTS Projector",
+                "Ghost Orbs",
+                "EMF Level 5"
+            ],
+            "attitude": "violent",
+            "strength": "Active electronics boost its speed during hunts.",
+            "weakness": "Disrupts electronics from further away when manifesting."
+        },
+        {
+            "name": "Raiju",
+            "clues": [
+                "DOTS Projector",
+                "Ghost Orbs",
+                "EMF Level 5"
+            ],
+            "attitude": "violent",
+            "strength": "Active electronics boost its speed during hunts.",
+            "weakness": "Disrupts electronics from further away when manifesting."
+        },
+        {
+            "name": "Thaye",
+            "clues": [
+                "DOTS Projector",
+                "Ghost Orbs",
+                "Ghost Writing"
+            ],
+            "attitude": "violent",
+            "strength": "Becomes very active the first time a player gets nearby.",
+            "weakness": "The more time players spend near it, the quieter and slower it becomes."
+        },
+        {
+            "name": "The Mimic",
+            "clues": [
+                "Fingerprints",
+                "Freezing Temperatures",
+                "Spirit Box"
+            ],
+            "attitude": "violent",
+            "strength": "Mimics other ghost types one after another for brief periods of time.",
+            "weakness": "Induces Ghost Orbs as fourth evidence (third on Nightmare)."
+        },
+        {
+            "name": "The Twins",
+            "clues": [
+                "EMF Level 5",
+                "Freezing Temperatures",
+                "Spirit Box"
+            ],
+            "attitude": "violent",
+            "strength": "Can hunt from a different place than expected.",
+            "weakness": "Can interact with the environment simultaneously."
         }
     ]
 }
