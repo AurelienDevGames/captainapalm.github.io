@@ -232,17 +232,6 @@
             "weakness": "Disrupts electronics from further away when manifesting."
         },
         {
-            "name": "Raiju",
-            "clues": [
-                "DOTS Projector",
-                "Ghost Orbs",
-                "EMF Level 5"
-            ],
-            "attitude": "violent",
-            "strength": "Active electronics boost its speed during hunts.",
-            "weakness": "Disrupts electronics from further away when manifesting."
-        },
-        {
             "name": "Thaye",
             "clues": [
                 "DOTS Projector",
